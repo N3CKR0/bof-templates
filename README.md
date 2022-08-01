@@ -2,4 +2,4 @@
 Buffer Overflow Python Scripts
 
 # Happy Hacking
-![Happy Hacking](Slack pic.png)
+![Happy Hacking](Slack pic.jpg)
